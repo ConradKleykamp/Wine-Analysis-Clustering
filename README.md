@@ -29,7 +29,7 @@ Data Preprocessing
 
 Identifying Optimal Number of Clusters
 - Elbow Method, n_clusters = 3
-- Dendogram further showing the optimal number of clusters
+- Dendrogram further showing the optimal number of clusters
 
 Models
 - k-means
